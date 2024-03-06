@@ -3,5 +3,5 @@ Welcome to! Here, you'll find a collection of my projects, including those built
 
 That's all, See you soon!
 
-Made Using Cardd[https://carrd.co/build/96664d967d1e7fdc]
+Made Using Cardd [https://carrd.co/build/96664d967d1e7fdc]
 
